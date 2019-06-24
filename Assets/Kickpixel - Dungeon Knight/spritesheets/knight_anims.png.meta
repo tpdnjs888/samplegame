@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 7781a737186224d4a8e58d26026af04f
+timeCreated: 1454454928
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_anims_0
+    21300002: knight_anims_1
+    21300004: knight_anims_2
+    21300006: knight_anims_3
+    21300008: knight_anims_4
+    21300010: knight_anims_5
+    21300012: knight_anims_6
+    21300014: knight_anims_7
+    21300016: knight_anims_8
+    21300018: knight_anims_9
+    21300020: knight_anims_10
+    21300022: knight_anims_11
+    21300024: knight_anims_12
+    21300026: knight_anims_13
+    21300028: knight_anims_14
+    21300030: knight_anims_15
+    21300032: knight_anims_16
+    21300034: knight_anims_17
+    21300036: knight_anims_18
+    21300038: knight_anims_19
+    21300040: knight_anims_20
+    21300042: knight_anims_21
+    21300044: knight_anims_22
+    21300046: knight_anims_23
+    21300048: knight_anims_24
+    21300050: knight_anims_25
+    21300052: knight_anims_26
+    21300054: knight_anims_27
+    21300056: knight_anims_28
+    21300058: knight_anims_29
+    21300060: knight_anims_30
+    21300062: knight_anims_31
+    21300064: knight_anims_32
+    21300066: knight_anims_33
+    21300068: knight_anims_34
+    21300070: knight_anims_35
+    21300072: knight_anims_36
+    21300074: knight_anims_37
+    21300076: knight_anims_38
+    21300078: knight_anims_39
+    21300080: knight_anims_40
+    21300082: knight_anims_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_anims_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 532
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 533
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 532
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 532
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 533
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 532
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 468
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 468
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 405
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 405
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 405
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 405
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 405
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 405
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 341
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 341
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 341
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 341
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 341
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 341
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 270
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 268
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 270
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 211
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 212
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 149
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 25
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 24
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 24
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_anims_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 24
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
